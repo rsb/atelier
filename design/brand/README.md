@@ -13,6 +13,7 @@ exported again, never made to these files by hand.
 | `logo/mark` | The mark. `-small` is the cut for 24 px and below (heavier ring and line). |
 | `logo/wordmark` | `atelier` outlined from Hanken Grotesk Light. `-small` is Regular, for 24 px and below. |
 | `logo/lockup` | Mark + wordmark, plus 2× PNGs for places that won't take SVG. |
+| `logo/banner` | The README header: the lockup and tagline on the ground colour, light and dark, cropped from the social preview. Made here, not in Claude Design. |
 | `logo/family/<part>` | `atelier`, the bob, then the part name — text-only, and `-lockup` with the mark. Gauge, Insights, Registry, Box. Registry and Box assume the parts' names are aligned under Atelier, which is not yet decided. |
 | `app-icon/hicolor` | Linux icon theme layout: PNG 16–512, `scalable/` SVG, `symbolic/` for GNOME. |
 | `app-icon/src` | The three tile cuts the PNGs were rendered from (full ≥64, mid 32–48, tiny ≤24). |
