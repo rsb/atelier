@@ -1,0 +1,25 @@
+:root {
+  --atelier-ground: #F4F4F2;
+  --atelier-surface: #FFFFFF;
+  --atelier-rule: #D9D7D1;
+  --atelier-muted: #5E5B54;
+  --atelier-ink: #1A1916;
+  --atelier-accent: #7A5A12;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --atelier-ground: #121210;
+    --atelier-surface: #1B1A17;
+    --atelier-rule: #322F2A;
+    --atelier-muted: #A49F95;
+    --atelier-ink: #EDEAE3;
+    --atelier-accent: #D4AE5C;
+  }
+}
+:root {
+  --atelier-font-sans: 'Hanken Grotesk', system-ui, sans-serif;
+  --atelier-font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+  --atelier-weight-display: 300;
+  --atelier-weight-body: 400;
+  --atelier-weight-strong: 500;
+}

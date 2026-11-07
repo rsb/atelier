@@ -1,0 +1,34 @@
+{
+  "color": {
+    "light": {
+      "ground": "#F4F4F2",
+      "surface": "#FFFFFF",
+      "rule": "#D9D7D1",
+      "muted": "#5E5B54",
+      "ink": "#1A1916",
+      "accent": "#7A5A12"
+    },
+    "dark": {
+      "ground": "#121210",
+      "surface": "#1B1A17",
+      "rule": "#322F2A",
+      "muted": "#A49F95",
+      "ink": "#EDEAE3",
+      "accent": "#D4AE5C"
+    }
+  },
+  "font": {
+    "sans": "Hanken Grotesk",
+    "mono": "IBM Plex Mono",
+    "weights": {
+      "display": 300,
+      "body": 400,
+      "strong": 500
+    }
+  },
+  "terminal": {
+    "sigil": "⊥",
+    "accent_ansi256_dark": 179,
+    "accent_ansi256_light": 94
+  }
+}
