@@ -1,4 +1,19 @@
-# Atelier
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="design/brand/logo/banner/atelier-banner-dark.svg">
+    <img alt="atelier: a software factory for those who care about the code" src="design/brand/logo/banner/atelier-banner-light.svg" width="100%">
+  </picture>
+</h1>
+
+<p align="center">
+  <a href="#why">Why</a> ·
+  <a href="#what-the-factory-is">The factory</a> ·
+  <a href="#architecture-first">Architecture first</a> ·
+  <a href="PILLARS.md">Pillars</a> ·
+  <a href="GLOSSARY.md">Glossary</a>
+</p>
+
+<br>
 
 The art of building software. A software factory for those who care about
 the code: it builds reliable, secure, performant and maintainable software
